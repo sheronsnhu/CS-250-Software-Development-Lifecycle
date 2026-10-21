@@ -1,7 +1,7 @@
 # CS-250-Software-Development-Lifecycle
 ## CS 250 Agile and Scrum Portfolio
 
-Sprint Review and Retrospective
+## Sprint Review and Retrospective
 
 This repository contains my Sprint Review and Retrospective from CS 250 at Southern New Hampshire University. It demonstrates my understanding of Agile and Scrum practices, software development processes, team collaboration, and continuous improvement.
 
